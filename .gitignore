@@ -1,1 +1,5 @@
 test.py
+config.py
+cache/
+*.csv
+*.json
